@@ -1,5 +1,5 @@
 {
-    "name": "permanence",
+    "name": "Permanence",
     "version": "0.1.0",
     "title": "Permanence",
     "author": "Tom Smeets",
@@ -7,5 +7,5 @@
     "homepage": "https://github.com/TomSmeets/",
     "factorio_version": "0.16",
     "dependencies": ["base >= 0.12.35"],
-    "description": "Removing stuff waste of time. Just do it right the first time."
+    "description": "Never remove anything. What could go wrong."
 }
