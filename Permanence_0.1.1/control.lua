@@ -5,7 +5,6 @@ local ignored_types = {
 local function handle_built_event(event)
   for i,t in ipairs(ignored_types) do
     if event.created_entity.type == t then
-      game.print("skipping: " .. t);
       return
     end
   end
