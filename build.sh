@@ -1,1 +1,7 @@
-zip -v -r 'Permanence_0.1.1.zip' ./Permanence_0.1.1
+VERSION="$(jq -r '.version' ./src/info.json)"
+
+mkdir build
+pushd build
+rsync -av ../src/ ./Permanence_$VERSION/
+zip -v -r Permanence_$VERSION.zip ./Permanence_$VERSION
+popd
