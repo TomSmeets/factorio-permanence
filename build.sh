@@ -1,3 +1,4 @@
+#!/bin/sh
 VERSION="$(jq -r '.version' ./src/info.json)"
 
 mkdir build
