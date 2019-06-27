@@ -1,11 +1,11 @@
 {
-    "name": "Permanence",
-    "version": "0.1.2",
-    "title": "Permanence",
-    "author": "Tom Smeets",
-    "contact": "tom.tsmeets@gmail.com",
-    "homepage": "https://github.com/TomSmeets/",
-    "factorio_version": "0.17",
-    "dependencies": ["base >= 0.12.35"],
-    "description": "Never remove anything. What could go wrong."
+  "name": "Permanence",
+  "version": "0.1.2",
+  "title": "Permanence",
+  "author": "Tom Smeets",
+  "contact": "tom.tsmeets@gmail.com",
+  "homepage": "https://github.com/TomSmeets/",
+  "factorio_version": "0.17",
+  "dependencies": ["base >= 0.12.35"],
+  "description": "Never remove anything. What could go wrong."
 }
