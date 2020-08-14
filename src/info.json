@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "title": "Permanence",
   "author": "Tom Smeets",
-  "contact": "tom.tsmeets@gmail.com",
+  "contact": "permanence.github@tsmeets.nl",
   "homepage": "https://github.com/TomSmeets/",
   "factorio_version": "0.17",
   "dependencies": ["base >= 0.12.35"],
