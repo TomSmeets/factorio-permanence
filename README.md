@@ -17,7 +17,7 @@ There is still a way to remove some objects, if you really want to. Just point y
 ![](banner2.png)
 
 ## Building
-To build the project on linux just run [build.sh](./build.sh). Otherwise you can read the file and use that as a reference for building on other systems.
+To build the project on Linux just run [build.sh](./build.sh). Otherwise you can read the file and use that as a reference for building on other systems.
 
 ## Contact
 If you want to play the mod but it is outdated, feel free to contact me at tom@tsmeets.nl or here on [GitHub](https://github.com/TomSmeets/factorio-permanence/issues/new).
